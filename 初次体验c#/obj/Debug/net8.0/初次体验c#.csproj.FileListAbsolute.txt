@@ -1,0 +1,14 @@
+D:\编程代码库\初次体验c#\bin\Debug\net8.0\初次体验c#.exe
+D:\编程代码库\初次体验c#\bin\Debug\net8.0\初次体验c#.deps.json
+D:\编程代码库\初次体验c#\bin\Debug\net8.0\初次体验c#.runtimeconfig.json
+D:\编程代码库\初次体验c#\bin\Debug\net8.0\初次体验c#.dll
+D:\编程代码库\初次体验c#\bin\Debug\net8.0\初次体验c#.pdb
+D:\编程代码库\初次体验c#\obj\Debug\net8.0\初次体验c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\编程代码库\初次体验c#\obj\Debug\net8.0\初次体验c#.AssemblyInfoInputs.cache
+D:\编程代码库\初次体验c#\obj\Debug\net8.0\初次体验c#.AssemblyInfo.cs
+D:\编程代码库\初次体验c#\obj\Debug\net8.0\初次体验c#.csproj.CoreCompileInputs.cache
+D:\编程代码库\初次体验c#\obj\Debug\net8.0\初次体验c#.dll
+D:\编程代码库\初次体验c#\obj\Debug\net8.0\refint\初次体验c#.dll
+D:\编程代码库\初次体验c#\obj\Debug\net8.0\初次体验c#.pdb
+D:\编程代码库\初次体验c#\obj\Debug\net8.0\初次体验c#.genruntimeconfig.cache
+D:\编程代码库\初次体验c#\obj\Debug\net8.0\ref\初次体验c#.dll
