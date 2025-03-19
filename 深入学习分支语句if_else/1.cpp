@@ -38,7 +38,7 @@ int main()
 			printf("壮年或中老年。\n");
 	} 
 	{//悬空if
-		printf("板块三：");
+		printf("笔记板块三：");
 		int a = 0;
 		int b = 2;
 		if (a == 1)
@@ -46,7 +46,35 @@ int main()
 				printf("答案一");
 	    else
 			printf("答案二");//else与最近的if为一组，而非对齐的
-		printf("\n板块三结束。");
+		printf("\n\n笔记板块三结束。\n");
+	}
+	{
+		printf("笔记板块四，while循环，输出1-100之间的奇数：\n");
+		int a = 1;
+		printf("奇数为：");
+		while (a <= 100)
+		{
+			if (a % 2 == 1)
+			{
+				printf("%d ", a);
+				a++;
+			}
+			else if(a%2==0)
+			{
+				a++;
+			}
+		}
+		printf("\nfor循环，输出1-100之间的偶数:\n");
+		printf("偶数为：");
+		int b = 0;
+		for (b = 1; b <= 100; b++)
+		{
+			if(b % 2 == 0)
+			{
+				printf("%d ", b);
+			}
+		}
+
 	}
 	return 0;
 }
